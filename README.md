@@ -11,3 +11,5 @@ It is a class that connects interactions between model and view.
 
 ## 3: Model
 This is business logic. In this calc it is just calculations of operations such as addition, multiplication, etc.
+
+<img src="https://user-images.githubusercontent.com/53492853/95057889-6169dc00-0714-11eb-9951-01683e18bcf3.PNG" width ="400" height="450">  
